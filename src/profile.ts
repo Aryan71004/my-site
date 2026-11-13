@@ -29,13 +29,15 @@ export const profile = {
    * how classmates find something to say hello about.
    */
   funFacts: [
-    "I once assembled IKEA furniture without leftover screws.",
-    "I can name every U.S. state capital in under two minutes.",
+    "I was borin in India also lived there for 9 years.",
+    "I love to travel.",
+    "I like to cook.",
+    "Dream car is Audi R8"
   ],
 
   /** One decision you're proud of, in a sentence. */
   decisionImProudOf:
-    "I chose to take a gap semester to work retail; it taught me more about customers than any textbook.",
+    "I am of graduating from UD majoring in MIS and stating my Masters in MIS.",
 
   /**
    * Your photo. Replace public/photo.svg with a real photo of you
