@@ -37,14 +37,14 @@ export const profile = {
 
   /** One decision you're proud of, in a sentence. */
   decisionImProudOf:
-    "I am of graduating from UD majoring in MIS and stating my Masters in MIS.",
+    "I am of graduating from UD majoring in MIS and starting my Masters in MIS.",
 
   /**
    * Your photo. Replace public/photo.svg with a real photo of you
    * (e.g. put photo.jpg in the public/ folder and change this to "/photo.jpg").
    * It must be a real image file: the grader fetches it and checks.
    */
-  photoPath: "/photo.svg",
+  photoPath: "/Photo.PNG",
 
   /**
    * Who can see your roster card:
@@ -60,7 +60,7 @@ export const profile = {
    * A short bio for your home page: two or three sentences, written like
    * a person, not a resume. What are you studying? What do you care about?
    */
-  bio: "I'm a business student at the University of Delaware learning to make good decisions at any scale. This site is my working portfolio: every course challenge deploys here as a live service.",
+  bio: "I'm a business masters student at the University of Delaware mastering in MIS, also graduated form UD in MIS and Business Analytics. I care about sustainability and how technology can help us achive it.",
 
   /**
    * Your GitHub repo URL. The course platform reads this from /api/health to
