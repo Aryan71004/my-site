@@ -19,7 +19,7 @@ export const profile = {
   displayName: "Aryan Bhavsar",
 
   /** Your UD email — must match the one you signed into the course with. */
-  email: "aryan@udel.edu",
+  email: "aryanb@udel.edu",
 
   /** Where you're from. Shows on your roster card and /about. */
   hometown: "Newark, Delaware",
