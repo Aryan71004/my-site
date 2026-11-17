@@ -51,10 +51,10 @@ export const profile = {
    *   "class"          — your classmates and the professor (recommended)
    *   "professor-only" — just the professor
    */
-  rosterVisibility: "class" as "class" | "professor-only",
+  rosterVisibility: "class" as "class",
 
   /** A one-line tagline for your home page. Make it yours. */
-  tagline: "Building a portfolio of decision services, one lane at a time.",
+  tagline: "Building a portfolio one project at a time.",
 
   /**
    * A short bio for your home page: two or three sentences, written like
